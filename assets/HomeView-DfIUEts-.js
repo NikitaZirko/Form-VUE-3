@@ -1,0 +1,1 @@
+import{B as e}from"./BaseLink-DWWd2qX1.js";import{_ as a,c as t,w as o,o as r,a as s}from"./index-9UIyDsHv.js";const c={__name:"HomeView",setup(_){return(n,p)=>(r(),t(e,{class:"center",url:"order"},{default:o(()=>[s("Вызвать официанта")]),_:1}))}},i=a(c,[["__scopeId","data-v-f77e457f"]]);export{i as default};
